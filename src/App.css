@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+ 
+.friend{
+  color: purple;
+  background-color: white;
+  border-color: blue;
+  border-radius: 10px;
+  border-style: dashed;
+  font-size: 12pt;
+  padding: 5x;
+  margin: 10px;
+}
